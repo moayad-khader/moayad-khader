@@ -1,1 +1,1 @@
-<h1 style="text-align:center; width:100%;">Hi, I'm Moayad khader 👋</h1>
+<h1 align="center">Hi, I'm Moayad khader 👋</h1>
