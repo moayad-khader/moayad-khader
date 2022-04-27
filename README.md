@@ -19,7 +19,8 @@
   <code><img title="Python" height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
   <code><img title="Go-lang" height="25" src="https://github.com/zAbuQasem/zAbuQasem/blob/main/golang.png"></code>
   <code><img title="JS" height="25" src="https://camo.githubusercontent.com/6752a5abda6bc26d149a666e2ef2b0359855cc9526abfc0ad48c4771ec906979/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"></code>
-
+    <code><img title="Dart" height="25" src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2"></code>
+  
 </p>
 <hr>
 
