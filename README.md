@@ -1,8 +1,7 @@
 <h3 align="center">Hello there, I'm Moayad Al Khader 👋</h3>
 <h5 align="center">
 <code><a href="https://www.linkedin.com/in/moayad-al-khader-084116177/" title="LinkedIn"><img width="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> LinkedIn</a></code>
-<code><a href="https://app.gitbook.com/@0x4buqas3m/s/web-pentesting/" title="Gitbook"><img width="22" src="https://github.com/zAbuQasem/zAbuQasem/blob/main/gitbook.png"> Gitbook</a></code>
-<code><a href="https://www.youtube.com/channel/UCRPJr4hJzeJwQv0Z6_NM5iw" title="Youtube"><img width="22" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> Youtube</a></code>
+
 </h5>
 <p align="center">
   <br><b>Hello World!!</b>
