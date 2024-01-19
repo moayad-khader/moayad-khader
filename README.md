@@ -19,7 +19,6 @@
   <code><img title="Go-lang" height="25" src="https://github.com/zAbuQasem/zAbuQasem/blob/main/golang.png"></code>
   <code><img title="JS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"></code>
   <code><img title="TS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
-    <code><img title="Dart" height="25" src="https://www.seekpng.com/png/detail/178-1782948_large-dart-logo-5-by-cheryl-dart-programming.png"></code>
   
 </p>
 <hr>
