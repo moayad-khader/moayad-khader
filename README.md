@@ -10,7 +10,7 @@
   <br>How to reach me: <a href="mailto: moayadkhader@outlook.com">moayadkhader@outlook.com</a>
 </p>
 
-<hr>
+
 
 <h2 align="center">Programming Languages</h2>
 
