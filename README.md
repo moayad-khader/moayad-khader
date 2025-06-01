@@ -13,7 +13,7 @@
 - **AI-powered IFRS 9 challenger** – explainable credit-risk modelling  
 
 ### 🛠️ Tech & Tools
-`Python` `TypeScript` `FastAPI` `NestJS` `LangChain` `PostgreSQL` `DataFusion` `Azure ML` `K8s`
+`Python` `TypeScript` `FastAPI` `NestJS` `LangChain` `PostgreSQL` `Apahce DataFusion` `Azure` `K8s` `AKS` `GO` `Docker` `Apache Spark` `MSSQL` `Oracle` `GCP` `Huggingface` `ChromaDB` `Milvus` `Redis` `MCP` `ACP`
 
 ### 🌱 Currently learning
 LLM eval frameworks • advanced distributed DB design • effective technical storytelling
