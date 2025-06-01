@@ -10,7 +10,6 @@
 
 ### 🚀 What I’m working on
 - **Virtual BI Assistant** – ask questions, get insights 📈  
-- **Smart Gifting App (فرحات صغيرة – Little Joys)** – personalized favors for schools & institutions  
 - **AI-powered IFRS 9 challenger** – explainable credit-risk modelling  
 
 ### 🛠️ Tech & Tools
