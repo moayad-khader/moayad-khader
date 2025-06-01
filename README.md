@@ -1,25 +1,23 @@
-<h3 align="center">Hello there, I'm Moayad Al Khader 👋</h3>
-<h5 align="center">
-<code><a href="https://www.linkedin.com/in/moayad-al-khader-084116177/" title="LinkedIn"><img width="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> LinkedIn</a></code>
-<code><a href="https://dev.to/moayad523" title="Dev.to"><img width="22" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png"> DEV</a></code>
+<!-- Hi there  -->
+<h1 align="center">Hi, I'm Moayad Khader <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-</h5>
-<p align="center">
-  <br><b>Hello World!!</b>
-  <br>I'm a Software Enginner who believes that the truth is only be found in one place: the code. 
-  <br>How to reach me: <a href="mailto: moayadkhader@outlook.com">moayadkhader@outlook.com</a>
-</p>
+### 💼 About me
+- 🔭 **Senior Consultant II – Data & AI, EY AI Hub**  
+- 🧠 **Founder & Lead Engineer, [Agent Alchemy](https://github.com/Agent-Alchemy)** – crafting multi-agent intelligence & RAG chatbots  
+- 🛠️ 5 years turning ideas into production-ready software (JS/TS · Python · FastAPI · NestJS/Next.js)  
+- 📊 Passionate about data quality, vector databases & virtual BI assistants  
+- 🎙️ Occasional workshop speaker on AI fundamentals, MLOps & automation  
 
+### 🚀 What I’m working on
+- **Virtual BI Assistant** – ask questions, get insights 📈  
+- **Smart Gifting App (فرحات صغيرة – Little Joys)** – personalized favors for schools & institutions  
+- **AI-powered IFRS 9 challenger** – explainable credit-risk modelling  
 
+### 🛠️ Tech & Tools
+`Python` `TypeScript` `FastAPI` `NestJS` `LangChain` `PostgreSQL` `DataFusion` `Azure ML` `K8s`
 
-<h2 align="center">Programming Languages</h2>
+### 🌱 Currently learning
+LLM eval frameworks • advanced distributed DB design • effective technical storytelling
 
-<p align="center">
-  <code><img title="JS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png"></code>
-  <code><img title="TS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
-  <code><img title="Python" height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
-  <code><img title="Go-lang" height="25" src="https://github.com/zAbuQasem/zAbuQasem/blob/main/golang.png"></code>
-</p>
-
-
-
+### 🤝 Let’s connect
+[LinkedIn](https://www.linkedin.com/in/moayadkhader/) • Twitter @moayad_khader • moayad.khader@gmail.com
