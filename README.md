@@ -17,6 +17,3 @@
 
 ### 🌱 Currently learning
 LLM eval frameworks • advanced distributed DB design • effective technical storytelling
-
-### 🤝 Let’s connect
-[LinkedIn](https://www.linkedin.com/in/moayadkhader/) • Twitter @moayad_khader • moayad.khader@gmail.com
