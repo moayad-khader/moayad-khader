@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech & Tools
 `Python` `TypeScript` `FastAPI` `NestJS` `LangChain` `PostgreSQL` `Apache DataFusion` `Azure` `K8s` `AKS` `GO` `Docker` 
-`Apache Spark` `MSSQL` `Oracle` `GCP` `Huggingface` `ChromaDB` `Milvus` `Redis` `MCP` `ACP` `React` `Next.js`
+`Apache Spark` `MSSQL` `Oracle` `GCP` `Huggingface` `ChromaDB` `Milvus` `Redis` `MCP` `ACP` `React` `NextJS`
 
 ### 🌱 Currently learning
 LLM eval frameworks • advanced distributed DB design • effective technical storytelling
