@@ -14,28 +14,28 @@
 
 ### 🛠️ Tech & Tools
 
-<img src="https://cdn.simpleicons.org/python" alt="Python" width="24" height="24" title="Python"/> `Python`  
-<img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="24" height="24" title="TypeScript"/> `TypeScript`  
-<img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="24" height="24" title="FastAPI"/> `FastAPI`  
-<img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" width="24" height="24" title="NestJS"/> `NestJS`  
-<img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="24" height="24" title="LangChain"/> `LangChain`  
-<img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="24" height="24" title="PostgreSQL"/> `PostgreSQL`  
-<img src="https://cdn.simpleicons.org/apachedatafusion" alt="Apache DataFusion" width="24" height="24" title="Apache DataFusion"/> `Apache DataFusion`  
-<img src="https://cdn.simpleicons.org/microsoftazure" alt="Azure" width="24" height="24" title="Azure"/> `Azure`  
-<img src="https://cdn.simpleicons.org/kubernetes" alt="K8s" width="24" height="24" title="Kubernetes"/> `K8s`  
-<img src="https://cdn.simpleicons.org/docker" alt="Docker" width="24" height="24" title="Docker"/> `Docker`  
-<img src="https://cdn.simpleicons.org/golang" alt="Go" width="24" height="24" title="Go"/> `GO`  
-<img src="https://cdn.simpleicons.org/apache-spark" alt="Apache Spark" width="24" height="24" title="Apache Spark"/> `Apache Spark`  
-<img src="https://cdn.simpleicons.org/microsoftsqlserver" alt="MSSQL" width="24" height="24" title="MSSQL"/> `MSSQL`  
-<img src="https://cdn.simpleicons.org/oracle" alt="Oracle" width="24" height="24" title="Oracle"/> `Oracle`  
-<img src="https://cdn.simpleicons.org/googlecloud" alt="GCP" width="24" height="24" title="GCP"/> `GCP`  
-<img src="https://cdn.simpleicons.org/huggingface" alt="Huggingface" width="24" height="24" title="Huggingface"/> `Huggingface`  
-<img src="https://cdn.simpleicons.org/chromadb" alt="ChromaDB" width="24" height="24" title="ChromaDB"/> `ChromaDB`  
-<img src="https://cdn.simpleicons.org/milvus" alt="Milvus" width="24" height="24" title="Milvus"/> `Milvus`  
-<img src="https://cdn.simpleicons.org/redis" alt="Redis" width="24" height="24" title="Redis"/> `Redis`  
-<img src="https://cdn.simpleicons.org/react" alt="React" width="24" height="24" title="React"/> `React`  
-<img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="24" height="24" title="Next.js"/> `NextJS`  
-<img src="https://cdn.simpleicons.org/mlflow" alt="MLflow" width="24" height="24" title="MLflow"/> `MLflow`  
+<img src="https://cdn.simpleicons.org/python" alt="Python" width="20" height="20" title="Python"/> `Python` &nbsp;
+<img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="20" height="20" title="TypeScript"/> `TypeScript` &nbsp;
+<img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" width="20" height="20" title="FastAPI"/> `FastAPI` &nbsp;
+<img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" width="20" height="20" title="NestJS"/> `NestJS` &nbsp;
+<img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="20" height="20" title="LangChain"/> `LangChain` &nbsp;
+<img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="20" height="20" title="PostgreSQL"/> `PostgreSQL` &nbsp;
+<img src="https://cdn.simpleicons.org/apachedatafusion" alt="Apache DataFusion" width="20" height="20" title="Apache DataFusion"/> `Apache DataFusion` &nbsp;
+<img src="https://cdn.simpleicons.org/microsoftazure" alt="Azure" width="20" height="20" title="Azure"/> `Azure` &nbsp;
+<img src="https://cdn.simpleicons.org/kubernetes" alt="K8s" width="20" height="20" title="Kubernetes"/> `K8s` &nbsp;
+<img src="https://cdn.simpleicons.org/docker" alt="Docker" width="20" height="20" title="Docker"/> `Docker` &nbsp;
+<img src="https://cdn.simpleicons.org/golang" alt="Go" width="20" height="20" title="Go"/> `GO` &nbsp;
+<img src="https://cdn.simpleicons.org/apache-spark" alt="Apache Spark" width="20" height="20" title="Apache Spark"/> `Apache Spark` &nbsp;
+<img src="https://cdn.simpleicons.org/microsoftsqlserver" alt="MSSQL" width="20" height="20" title="MSSQL"/> `MSSQL` &nbsp;
+<img src="https://cdn.simpleicons.org/oracle" alt="Oracle" width="20" height="20" title="Oracle"/> `Oracle` &nbsp;
+<img src="https://cdn.simpleicons.org/googlecloud" alt="GCP" width="20" height="20" title="GCP"/> `GCP` &nbsp;
+<img src="https://cdn.simpleicons.org/huggingface" alt="Huggingface" width="20" height="20" title="Huggingface"/> `Huggingface` &nbsp;
+<img src="https://cdn.simpleicons.org/chromadb" alt="ChromaDB" width="20" height="20" title="ChromaDB"/> `ChromaDB` &nbsp;
+<img src="https://cdn.simpleicons.org/milvus" alt="Milvus" width="20" height="20" title="Milvus"/> `Milvus` &nbsp;
+<img src="https://cdn.simpleicons.org/redis" alt="Redis" width="20" height="20" title="Redis"/> `Redis` &nbsp;
+<img src="https://cdn.simpleicons.org/react" alt="React" width="20" height="20" title="React"/> `React` &nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" width="20" height="20" title="Next.js"/> `NextJS` &nbsp;
+<img src="https://cdn.simpleicons.org/mlflow" alt="MLflow" width="20" height="20" title="MLflow"/> `MLflow`
 
 
 ### 🌱 Currently learning
