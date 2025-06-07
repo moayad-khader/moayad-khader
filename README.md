@@ -21,7 +21,7 @@
 <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="20" height="20" title="LangChain"/> `LangChain` &nbsp;
 <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="20" height="20" title="PostgreSQL"/> `PostgreSQL` &nbsp;
 <img src="https://cdn.simpleicons.org/apachedatafusion" alt="Apache DataFusion" width="20" height="20" title="Apache DataFusion"/> `Apache DataFusion` &nbsp;
-<img src="https://cdn.simpleicons.org/microsoftazure" alt="Azure" width="20" height="20" title="Azure"/> `Azure` &nbsp;
+<img src="[https://cdn.simpleicons.org/microsoftazure](https://banner2.cleanpng.com/20180802/wxy/kisspng-microsoft-azure-cloud-computing-microsoft-corporat-pricing-insight-amp-analytics-microsoft-azure-5b62c6dd915251.7076960515332000935953.jpg" alt="Azure" width="20" height="20" title="Azure"/> `Azure` &nbsp;
 <img src="https://cdn.simpleicons.org/kubernetes" alt="K8s" width="20" height="20" title="Kubernetes"/> `K8s` &nbsp;
 <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="20" height="20" title="Docker"/> `Docker` &nbsp;
 <img src="https://cdn.simpleicons.org/golang" alt="Go" width="20" height="20" title="Go"/> `GO` &nbsp;
