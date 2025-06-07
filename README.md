@@ -10,7 +10,6 @@
 
 ### 🚀 What I’m working on
 - **Virtual BI Assistant** – ask questions, get insights 📈  
-- **AI-powered IFRS 9 challenger** – explainable credit-risk modelling  
 
 ### 🛠️ Tech & Tools
 `Python` `TypeScript` `FastAPI` `NestJS` `LangChain` `PostgreSQL` `Apache DataFusion` `Azure` `K8s` `AKS` `GO` `Docker` 
