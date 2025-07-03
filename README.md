@@ -8,9 +8,6 @@
 - 📊 Passionate about data quality, vector databases & virtual BI assistants  
 - 🎙️ Occasional workshop speaker on AI fundamentals, MLOps & automation  
 
-### 🚀 What I’m working on
-- **Virtual BI Assistant** – ask questions, get insights 📈  
-
 ### 🛠️ Tech & Tools
 `Python` `TypeScript` `FastAPI` `NestJS` `LangChain` `PostgreSQL` `Apache DataFusion` `Azure` `K8s` `AKS` `GO` `Docker` 
 `Apache Spark` `MSSQL` `Oracle` `GCP` `Huggingface` `ChromaDB` `Milvus` `Redis` `MCP` `ACP` `React` `NextJS` `MLflow`
