@@ -4,7 +4,7 @@
 ### 💼 About me
 - 🔭 **Senior Consultant II | AI Software Engineer – Data & AI, EY MENA AI Hub, Other Assurance**  
 - 🧠 **Founder & Lead Engineer, [Agent Alchemy](https://github.com/Agent-Alchemy)** – crafting multi-agent intelligence & RAG chatbots  
-- 🛠️ 5 years turning ideas into production-ready software (JS/TS · Python · FastAPI · NestJS/Next.js)  
+- 🛠️ Turning ideas into production-ready software (JS/TS · Python · FastAPI · NestJS/Next.js)  
 - 📊 Passionate about data quality, vector databases & virtual BI assistants  
 - 🎙️ Occasional workshop speaker on AI fundamentals, MLOps & automation  
 
