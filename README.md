@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Moayad Khader <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 ### 💼 About me
-- 🔭 **Senior Consultant II | AI Software Engineer – Data & AI, EY MENA AI Hub, Other Assurance**  
+- 🔭 **Assistant Manager | AI Software Engineer – Data & AI, EY MENA AI Hub, Other Assurance**  
 - 🧠 **Founder & Lead Engineer, [Agent Alchemy](https://github.com/Agent-Alchemy)** – crafting multi-agent intelligence & RAG chatbots  
 - 🛠️ Turning ideas into production-ready software
 - 📊 Passionate about data quality, vector databases & virtual BI assistants  
